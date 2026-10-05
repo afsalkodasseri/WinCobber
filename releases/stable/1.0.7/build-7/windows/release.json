@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "cobber",
+  "appName": "Cobber",
+  "version": "1.0.7",
+  "buildNumber": 7,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.7/build-7/windows/Cobber-1.0.7-windows.zip",
+    "sha256": "ea2f58b0e1a5b9228c6664d416eade38369d372f60b33d10f5c7997dcdb6e2de",
+    "length": 21718944
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-a86efd3549f251769ad0816c",
+    "value": "4dyctPcyBe8Yo1ZcEZ/m85zbQ4qKjQspGrB2yIt9bNSI9ieLvqUTsDgMkaiWLd/iiflZ4dEkmGuhtRmwB6UfCw=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-05T14:48:38.016435Z"
+}
