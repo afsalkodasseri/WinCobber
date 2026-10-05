@@ -7,18 +7,18 @@
     "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/app-archive.json"
   },
   "release": {
-    "version": "1.0.5",
-    "buildNumber": 5,
+    "version": "1.0.6",
+    "buildNumber": 6,
     "platform": "windows",
     "channel": "stable",
-    "path": "releases/stable/1.0.5/build-5/windows/release.json",
-    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.5/build-5/windows/release.json"
+    "path": "releases/stable/1.0.6/build-6/windows/release.json",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.6/build-6/windows/release.json"
   },
   "artifact": {
-    "path": "releases/stable/1.0.5/build-5/windows/Cobber-1.0.5-windows.zip",
-    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.5/build-5/windows/Cobber-1.0.5-windows.zip",
+    "path": "releases/stable/1.0.6/build-6/windows/Cobber-1.0.6-windows.zip",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.6/build-6/windows/Cobber-1.0.6-windows.zip",
     "kind": "zip",
-    "sha256": "294f599a739a7c3256dffbd2ce17e9afd49c26155b88b408eda5780ddbf4dda0",
-    "length": 21717287
+    "sha256": "024b981605e600e328fdf09be25462bbb675f9d57a294b491396f1c71dcd2d88",
+    "length": 21717406
   }
 }

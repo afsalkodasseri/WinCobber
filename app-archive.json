@@ -27,17 +27,17 @@
       "release": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.4/build-4/windows/release.json"
     },
     {
-      "version": "1.0.5",
-      "buildNumber": 5,
+      "version": "1.0.6",
+      "buildNumber": 6,
       "platform": "windows",
       "channel": "stable",
       "mandatory": false,
-      "release": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.5/build-5/windows/release.json"
+      "release": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.6/build-6/windows/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-a86efd3549f251769ad0816c",
-    "value": "WE5wx8pTOzsiz+XhZaeiN088Pt41r6SrlMMX2IOgWlaZ1lL6/gpGCL/iXcwhMUDzMEmPuCV8rO7FDlRkDLqcCw=="
+    "value": "s34y80bZ0h2lzdJ+L9ZoTp078/yNy3dlKX4CjrCWfzMCP74sfYFDzuNWoRuN5pue8aQNU7L6Db4PrvlRKtX5Bg=="
   }
 }
