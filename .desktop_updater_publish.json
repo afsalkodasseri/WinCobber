@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/",
+  "localRoot": "G:\\Afsal\\Flutter\\cobber\\cobber\\dist\\desktop_updater",
+  "appArchive": {
+    "path": "app-archive.json",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/app-archive.json"
+  },
+  "release": {
+    "version": "1.0.1",
+    "buildNumber": 2,
+    "platform": "windows",
+    "channel": "stable",
+    "path": "releases/stable/1.0.1/build-2/windows/release.json",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.1/build-2/windows/release.json"
+  },
+  "artifact": {
+    "path": "releases/stable/1.0.1/build-2/windows/Cobber-1.0.1-windows.zip",
+    "url": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.1/build-2/windows/Cobber-1.0.1-windows.zip",
+    "kind": "zip",
+    "sha256": "bd5d4fd10d147dbbf846f9c0fd02ac8bf2c01e4c636a4b16132c379cfdd3e5dc",
+    "length": 43642652
+  }
+}

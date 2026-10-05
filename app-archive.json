@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Cobber",
+  "items": [
+    {
+      "version": "1.0.1",
+      "buildNumber": 2,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/afsalkodasseri/WinCobber/master/releases/stable/1.0.1/build-2/windows/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-a86efd3549f251769ad0816c",
+    "value": "IT3c5DhPAWpr2P5Cp2+GWK7ilhXLhqcAnqdcxMKKMfWG23I39YJrzunGdM3MDpCAU5tv+JUxBA1LN9vDaX85Cg=="
+  }
+}
